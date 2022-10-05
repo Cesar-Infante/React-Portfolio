@@ -1,0 +1,104 @@
+/* form inquiries */
+/* questions input styling */
+/* form message styling */
+/* form styling */
+/* form styling button */
+/* send button styling */
+/* form button container */
+/* form button styling */
+/* form button on hover styling */
+/* form width */
+.inquiries {
+
+    form {
+        display: flex;
+        flex-direction: column;
+        padding: 1.5rem;
+        gap: 1rem;
+
+        #contactSend {
+            width: 100%;
+        }
+    }
+
+    .btn-container {
+        padding: 0;
+
+        button {
+            padding: 0.5rem;
+        }
+    }
+}
+
+#message {
+    resize: none;
+    min-height: 3rem;
+}
+
+.questions-input {
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    outline: none;
+}
+
+#contactMessage {
+    resize: none;
+    min-height: 140px;
+}
+
+#contactSend {
+    transition: all 0.3s ease;
+    border-radius: 10px;
+    width: 50% !important;
+    border: none;
+    color: #fff;
+    align-self: center;
+    text-align: center;
+    text-decoration: none;
+    background: #272341;
+
+    &:hover {
+        background-color: #2c5773;
+        cursor: pointer;
+    }
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#submitBtn {
+    padding: 10px;
+}
+
+input {
+    background: white;
+    font-size: 16px;
+}
+
+textarea {
+    background: white;
+    font-size: 16px;
+}
+
+select {
+    background: white;
+    font-size: 16px;
+}
+
+#sub-title {
+    font-size: 2rem;
+    text-align: center;
+    gap: 5px;
+    margin: 10px;
+}
+
+@media screen and (max-width: 2658px) {
+    .inquiries {
+        max-width: 800px;
+        margin: auto;
+    }
+}
