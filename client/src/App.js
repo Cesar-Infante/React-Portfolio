@@ -4,6 +4,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import ProjectsTwo from './components/ProjectsTwo';
 import Form from "./components/Form.js";
+import Footer from './components/Footer.js';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Projects />
       <ProjectsTwo />
       <Form />
+      <Footer />
     </div>
   );
 }
