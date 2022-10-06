@@ -1,5 +1,6 @@
 import React from 'react';
-import '../styles.scss'
+import '../styles.scss';
+import Resume from "../assets/Resume - Cesar Infante.pdf";
 
 export default function Hero() {
     return (
@@ -29,13 +30,27 @@ export default function Hero() {
                                 <a className="nav-link mx-3 fs-2 fw-bold" href="#myProjects" Projects>Projects</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link mx-3 fs-2 fw-bold" href="assets/Resume - Cesar Infante.pdf" target="_blank"
+                                <a className="nav-link mx-3 fs-2 fw-bold" href={ Resume } target="_blank" rel='noreferrer'
                                     Resume>Resume</a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </nav>
+
+            {/* Hero Section */}
+            <section id="hero" class="jumbotron">
+                <div class="container">
+                    <h1 class="hero-title load-hidden text-white">
+                        Hi, my name is <span class="text-color-main">Cesar Infante</span>
+                        <br />
+                        <span id="typed" class="text-white"></span>
+                    </h1>
+                    <p class="hero-cta load-hidden">
+                        <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">Know more</a>
+                    </p>
+                </div>
+            </section>
         </div>
     )
 }
