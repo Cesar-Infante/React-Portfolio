@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.b6dc7b2c.css",
+    "main.js": "/React-Portfolio/static/js/main.5f916f36.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/React-Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/vanta.png": "/React-Portfolio/static/media/vanta.178bad113670d4e93eb5.png",
+    "static/media/ecom-backend.gif": "/React-Portfolio/static/media/ecom-backend.437ce5630d2ff14a82f1.gif",
+    "static/media/my-profile.jpg": "/React-Portfolio/static/media/my-profile.ee8543658243a164dc88.jpg",
+    "static/media/Weather-DashboardV2.png": "/React-Portfolio/static/media/Weather-DashboardV2.1aaa128c205e8b88ba65.png",
+    "static/media/Dental-Mockup.png": "/React-Portfolio/static/media/Dental-Mockup.ec11dc7aecdcf05b4109.png",
+    "static/media/Platello.png": "/React-Portfolio/static/media/Platello.b65ce8dbd976e16f4bc6.png",
+    "static/media/ReadMeGenerator.png": "/React-Portfolio/static/media/ReadMeGenerator.a109296fc95f2d5c0fba.png",
+    "static/media/Password-Gen.png": "/React-Portfolio/static/media/Password-Gen.7d444eefcba9d4cafde2.png",
+    "static/media/noteApp.png": "/React-Portfolio/static/media/noteApp.890e2cfd9f2f30597a70.png",
+    "static/media/pop-umai.png": "/React-Portfolio/static/media/pop-umai.09a7a19133bab7be2cb4.png",
+    "static/media/Resume - Cesar Infante.pdf": "/React-Portfolio/static/media/Resume - Cesar Infante.18a1e79ac942efaec0ca.pdf",
+    "static/media/CSS-Snippets.png": "/React-Portfolio/static/media/CSS-Snippets.49b1712907f398c88d17.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b6dc7b2c.css.map": "/React-Portfolio/static/css/main.b6dc7b2c.css.map",
+    "main.5f916f36.js.map": "/React-Portfolio/static/js/main.5f916f36.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/React-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6dc7b2c.css",
+    "static/js/main.5f916f36.js"
+  ]
+}
