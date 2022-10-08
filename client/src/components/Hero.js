@@ -27,7 +27,7 @@ export default function Hero() {
                                 <a className="nav-link mx-3 fs-2 fw-bold" href="#contact" Contact Me>Contact Me</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link mx-3 fs-2 fw-bold" href="#myProjects" Projects>Projects</a>
+                                <a className="nav-link mx-3 fs-2 fw-bold" href="#projects" Projects>Projects</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link mx-3 fs-2 fw-bold" href={ Resume } target="_blank" rel='noreferrer'
