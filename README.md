@@ -30,7 +30,7 @@ npm start
 
 
 ## Deployed
-Deployed URL: [Live-Prtfolio](https://cesarinfante-portfolio.netlify.app/)
+Deployed URL: [Live-Portfolio](https://cesar-infante.github.io/React-Portfolio/)
 
 ## Issues 
 Animations not functioning/linked correctly, email.js for form not functioning/linked correctly.
