@@ -1,5 +1,5 @@
 # React-Portfolio
-# MAIN PORTFOLIO
+
 Building a portfolio is a necessity when showcasing completed projects/work! From designing a whole layout of how my portfolio should look to bringing it to life.
 
 Feel free to click on my projects link and contact me link they will both bring you to the corresponding section. This portfolio is also adjusted for various screen sizes and devices! Which is very important as most applications are viewed on a mobile device before on a desktop.
